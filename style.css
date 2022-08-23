@@ -4,9 +4,9 @@ body {
     padding: 0;
 }
 
-/***************************
+/*------------------------
             Banner
-****************************/
+ --------------------------*/
 .first-part {
     background-image: url("images/donation13.jpg");
     background-size: cover;
@@ -43,9 +43,9 @@ body {
     cursor: pointer;
 }
 
-/***************************
+/*---------------------------
         Donate Today
-****************************/
+-------------------------------*/
 
 .second-part {
     text-align: center;
@@ -98,9 +98,9 @@ body {
     border: none;
 }
 
-/***************************
+/*
     Our Donate Plan
-****************************/
+*/
 .third-part {
     text-align: center;
     padding: 80px 50px;
@@ -162,9 +162,9 @@ body {
 
 
 
-/***************************
+/*
         Depends On Dontaion
-****************************/
+*/
 
 .fourth-part {
     background-color: black;
@@ -202,9 +202,9 @@ body {
 
 }
 
-/***************************
+/*
         Get My Updates
-****************************/
+*/
 
 .fifth-part {
     text-align: center;
@@ -260,9 +260,9 @@ body {
 }
 
 
-/***************************
+/*
         Footer
-****************************/
+*/
 footer {
     background-color: black;
     padding: 40px 0px;
